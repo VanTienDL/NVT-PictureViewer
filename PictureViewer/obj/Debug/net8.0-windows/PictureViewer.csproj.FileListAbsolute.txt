@@ -1,0 +1,16 @@
+D:\Bai Tap UIT\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.exe
+D:\Bai Tap UIT\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.deps.json
+D:\Bai Tap UIT\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.runtimeconfig.json
+D:\Bai Tap UIT\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.dll
+D:\Bai Tap UIT\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.pdb
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.Form1.resources
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.csproj.GenerateResource.cache
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.AssemblyInfo.cs
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.dll
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\refint\PictureViewer.dll
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.pdb
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.genruntimeconfig.cache
+D:\Bai Tap UIT\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\ref\PictureViewer.dll
